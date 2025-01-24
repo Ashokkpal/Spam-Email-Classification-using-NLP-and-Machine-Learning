@@ -85,7 +85,7 @@ Contributions are welcome! If you have ideas, improvements, or bug fixes, feel f
 ---
 
 ## 📝 **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ashokkpal/Spam-Email-Classification-using-NLP-and-Machine-Learning/blob/main/License) file for more details.
 
 ---
 
