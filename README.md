@@ -100,7 +100,7 @@ Feel free to reach out or follow me for more projects like this:
 
 - **GitHub**: [Ashokkpal](https://github.com/Ashokkpal)
 - **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/ashokpal2094)
-- **instagram**: [Ashok pal](https://www.instagram.com/am_i_ashokk/)
+- **instagram**: [Sai Ashok Paul](https://www.instagram.com/its_ashookk/)
 
 ---
 
