@@ -99,7 +99,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 Feel free to reach out or follow me for more projects like this:
 
 - **GitHub**: [Ashokkpal](https://github.com/Ashokkpal)
-- **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/ashokpal2094)
+- **LinkedIn**: [Ashok pal](https://www.linkedin.com/in/yoursashok/)
 - **instagram**: [Sai Ashok Paul](https://www.instagram.com/its_ashookk/)
 
 ---
